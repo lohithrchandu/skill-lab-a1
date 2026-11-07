@@ -1,0 +1,6 @@
+{
+  "name": "PaperArchitecture - CS Research Paper Analyzer",
+  "description": "Paste any CS research paper URL to extract core concepts, render interactive Mermaid architecture flowcharts, and discover student internship projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
