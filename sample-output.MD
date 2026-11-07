@@ -1,0 +1,2 @@
+Earlier translation models read text sequentially using recurrent or convolutional neural networks, which created a bottleneck preventing parallelization. This paper introduces the Transformer, a novel network architecture that eliminates recurrence and convolutions entirely, relying solely on self-attention mechanisms to weigh relationships between all words in a sequence simultaneously. This key breakthrough enables massive parallelization during training, drastically reduces training time, and achieves state-of-the-art translation performance.
+
